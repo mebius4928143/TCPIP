@@ -1,0 +1,10 @@
+C:\Users\toshio\Documents\C#\TCPIP\TCP_Server\SV\obj\Debug\SV.csproj.AssemblyReference.cache
+C:\Users\toshio\Documents\C#\TCPIP\TCP_Server\SV\obj\Debug\SV.Form1.resources
+C:\Users\toshio\Documents\C#\TCPIP\TCP_Server\SV\obj\Debug\SV.Properties.Resources.resources
+C:\Users\toshio\Documents\C#\TCPIP\TCP_Server\SV\obj\Debug\SV.csproj.GenerateResource.cache
+C:\Users\toshio\Documents\C#\TCPIP\TCP_Server\SV\obj\Debug\SV.csproj.CoreCompileInputs.cache
+C:\Users\toshio\Documents\C#\TCPIP\TCP_Server\SV\bin\Debug\SV.exe.config
+C:\Users\toshio\Documents\C#\TCPIP\TCP_Server\SV\bin\Debug\SV.exe
+C:\Users\toshio\Documents\C#\TCPIP\TCP_Server\SV\bin\Debug\SV.pdb
+C:\Users\toshio\Documents\C#\TCPIP\TCP_Server\SV\obj\Debug\SV.exe
+C:\Users\toshio\Documents\C#\TCPIP\TCP_Server\SV\obj\Debug\SV.pdb
